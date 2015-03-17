@@ -3,7 +3,6 @@ apply plugin: 'idea'
 apply plugin: 'war'
 apply from: 'https://raw.github.com/akhikhl/gretty/master/pluginScripts/gretty.plugin'
 
-sourceCompatibility = 1.5
 version = '1.0'
 
 repositories {
